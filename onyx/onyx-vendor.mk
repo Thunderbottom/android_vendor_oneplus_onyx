@@ -248,4 +248,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     ConnectivityExt \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    libaudioalsa
